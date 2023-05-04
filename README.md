@@ -15,7 +15,7 @@
 
 * [AI HUB ](https://github.com/MarcelvanDuijnDev/AI-HUB)(Info About AI)
 * [SOFTWARE-HUB ](https://github.com/MarcelvanDuijnDev/Software-HUB)(Info About Software)
-* [WEBSITE-HUB](https://github.com/MarcelvanDuijnDev/WEBSITE-HUB)(Interesting/Useful Websites)
+* [WEBSITE-HUB ](https://github.com/MarcelvanDuijnDev/WEBSITE-HUB)(Interesting/Useful Websites)
 
 <hr>
 
