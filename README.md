@@ -6,8 +6,8 @@
 
 * Code ([Interface](https://marcelvanduijndev.github.io/Website/digital_creation_library_code.html),[Repo](https://github.com/MarcelvanDuijnDev/Unity-Presets-Scripts-Tools))
 * 3D Models ([Interface](https://marcelvanduijndev.github.io/Website/digital_creation_library_models.html),[Repo](https://github.com/MarcelvanDuijnDev/3DModels))
-* Materials ([Interface](https://marcelvanduijndev.github.io/Website/digital_creation_library_materials.html))
-* Loading Animations ([Interface](https://marcelvanduijndev.github.io/Website/digital_creation_library_loading_animations.html),[Repo]())
+* Materials ([Interface](https://marcelvanduijndev.github.io/Website/digital_creation_library_materials.html),[Repo](https://github.com/MarcelvanDuijnDev/Digital_Creation_Library/tree/main/Materials))
+* Loading Animations ([Interface](https://marcelvanduijndev.github.io/Website/digital_creation_library_loading_animations.html),[Repo](https://github.com/MarcelvanDuijnDev/Digital_Creation_Library/tree/main/LoadingAnimations))
 
 <hr>
 
